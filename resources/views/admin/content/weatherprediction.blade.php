@@ -30,7 +30,7 @@
                         </div>
                     </div>
                     <div class="row mb-3">
-                        <label for="colFormLabel" class="col-sm-2 col-form-label">Ranfall</label>
+                        <label for="colFormLabel" class="col-sm-2 col-form-label">Rainfall</label>
                         <div class="col-sm-10">
                             <input type="text" class="form-control" id="colFormLabel" placeholder="">
                         </div>
